@@ -26,7 +26,7 @@ Quick guide - set up steps:
 2. Open Max –> File...> Open... > (select Max Project folder). This will open the project window and the main synth patch.
 3. To learn how to use the synthesiser, see the demo video below...
 
-[video]
+[video link coming soon]
 
 © Nathan Carter 2025
 
